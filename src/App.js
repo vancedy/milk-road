@@ -16,6 +16,7 @@ function App() {
       <Header />
       <Switch>
         <Route exact path="/" render={() => <Landing />} />
+
       </Switch>
     </BrowserRouter>
     // </ThemeProvider>
