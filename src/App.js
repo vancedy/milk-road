@@ -5,6 +5,7 @@ import Button from "@material-ui/core/Button";
 import Grid from "@material-ui/core/Grid";
 import Landing from "./pages/Landing";
 import MemeTemplate from "./pages/MemeTemplate";
+import Web3 from 'web3';
 
 // import theme from "./ui/Theme";
 import { ThemeProvider } from "@material-ui/core/styles";
